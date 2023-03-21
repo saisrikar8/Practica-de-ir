@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+a, .button{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #2222FF;
+  color: white;
+  text-decoration: none;
+}
+a:hover, .button:hover{
+  background-color: #4444FF
+}
